@@ -29,12 +29,5 @@ I'm always learning and trying to keep up with the latest advancements in techno
 If you have any questioms about front-end and back-end languages and server-side stuff, feel free to reach out to me. I'm always happy to help.
 
 
-### ⚡ Fun fact
-
-
-I've explored various fields in the tech industry, such as game development, app development, and web development, but initially struggled with each of them. There were times when I felt like giving up, but I refused to let my setbacks discourage me. I continued to learn the basics of each field until I found the one that resonated with me the most. I poured all of my energy into this field, dedicating myself to mastering the skills and techniques necessary to succeed.
-Eventually, all of my hard work paid off, and I became an expert in my chosen field. Looking back, I realize that my journey wasn't easy, but it was worth it. I learned that it's never too late to discover your passion and pursue it, even if it means trying different fields first.
-
-
 Thanks for visiting my GitHub profile! 😄
 
