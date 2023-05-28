@@ -24,6 +24,8 @@ I'm currently focused on building an Advanced Text Converter website and assisti
 
 I'm always learning and trying to keep up with the latest advancements in technology. Currently, I'm exploring GraphQL, a query language and runtime for APIs that allows me to request only the data I need and get predictable results. and I'm excited to see where it takes me.
 
+Edit: I'm learning Python too :)
+
 ### 💬 Ask me about
 
 If you have any questioms about front-end and back-end languages and server-side stuff, feel free to reach out to me. I'm always happy to help.
