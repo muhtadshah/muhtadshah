@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Muhtad Shah</h1>
 
-<h3 align="center">A passionate programmer with expertise in Web and App Development </h3>
+<h3 align="center">A programmer with expertise in Web and App Development </h3>
 
 <p align="center">
   <a href="https://www.instagram.com/muhtadshah77/">Instagram</a> •
@@ -22,7 +22,7 @@ I'm currently focused on building an Advanced Text Converter website and assisti
 
 ### 🌱 I’m currently learning
 
-I'm always learning and trying to keep up with the latest advancements in technology. Currently, I'm exploring GraphQL, a query language and runtime for APIs that allows me to request only the data I need and get predictable results. and I'm excited to see where it takes me.
+I'm always learning and trying to keep up with the latest advancements in technology. Currently, I'm exploring GraphQL.
 
 Edit: I'm learning Python too :)
 
